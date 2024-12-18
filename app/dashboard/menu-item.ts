@@ -32,7 +32,7 @@ const data = {
           },
           {
             title: "Listar",
-            url: "#",
+            url: "/dashboard/student/list",
           },
           {
             title: "Settings",
@@ -51,7 +51,7 @@ const data = {
           },
           {
             title: "Listar",
-            url: "#",
+            url: "*",
           },
           {
             title: "Quantum",
